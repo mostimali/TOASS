@@ -57,6 +57,7 @@ Thanks for great inspiration from [PatchCore](https://github.com/amazon-science/
 ## License
 
 ------
+All code within the repo is under [MIT license](https://mit-license.org/)
 
 
 
