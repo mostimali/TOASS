@@ -1,4 +1,4 @@
-# TOASS
+# Feature Space-Based Lightweight Anomaly Synthesis for Efficient Industrial Anomaly Detection
 ![img](https://img2023.cnblogs.com/blog/3211184/202501/3211184-20250113235941990-195365734.jpg)
 
 ## Introduction
