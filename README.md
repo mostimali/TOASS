@@ -3,7 +3,7 @@
 ```
 @article{li2025toass,
   title={Feature Space-Based Lightweight Anomaly Synthesis for Efficient Industrial Anomaly Detection},
-  author={Li, Shenbin and Jia Ruisheng},
+  author={Li, Shenbin and Jia, Ruisheng},
   journal={The Visual Computer},
   year={2025}
 }
