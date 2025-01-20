@@ -23,16 +23,10 @@ TOASS is a lightweight self-supervised framework for industrial anomaly detectio
 
 ### Environment
 
-**Python3.8**
-
-**Packages**:
-
-- torch==1.12.1
-- torchvision==0.13.1
-- numpy==1.22.4
-- opencv-python==4.5.1
-
-(Above environment setups are not the minimum requiremetns, other versions might work too.)
+Use the following commands:
+```
+pip install -r requirements.txt
+```
 
 ### Data
 
