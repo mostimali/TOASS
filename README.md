@@ -34,9 +34,11 @@ Edit `run.sh` to edit dataset class and dataset path.
 
 #### Dataset
 
-Download the MvTec-AD from [here](https://www.mvtec.com/company/research/datasets/mvtec-ad/).
-Download the VisA from [here](https://github.com/amazon-science/spot-diff?tab=readme-ov-file).
-Download the MPDD from [here](https://github.com/stepanje/MPDD?tab=readme-ov-file).
+Download the **MvTec-AD** from [here](https://www.mvtec.com/company/research/datasets/mvtec-ad/).
+
+Download the **VisA** from [here](https://github.com/amazon-science/spot-diff?tab=readme-ov-file).
+
+Download the **MPDD** from [here](https://github.com/stepanje/MPDD?tab=readme-ov-file).
 
 
 The dataset folders/files follow its original structure.
