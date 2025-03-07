@@ -1,8 +1,8 @@
-# Feature Space-Based Lightweight Anomaly Synthesis for Efficient Industrial Anomaly Detection
-![img](https://img2023.cnblogs.com/blog/3211184/202501/3211184-20250113235941990-195365734.jpg)
+# Lightweight Self-Supervised Anomaly Detection via Feature Space Synthesis for Industrial Applications
+![img](https://img2023.cnblogs.com/blog/3211184/202503/3211184-20250307233059762-432467775.jpg)
 ```
 @article{li2025toass,
-  title={Feature Space-Based Lightweight Anomaly Synthesis for Efficient Industrial Anomaly Detection},
+  title={Lightweight Self-Supervised Anomaly Detection via Feature Space Synthesis for Industrial Applications},
   author={Li, Shenbin and Jia, Ruisheng},
   journal={The Visual Computer},
   year={2025}
@@ -32,9 +32,12 @@ pip install -r requirements.txt
 
 Edit `run.sh` to edit dataset class and dataset path.
 
-#### MvTecAD
+#### Dataset
 
-Download the dataset from [here](https://www.mvtec.com/company/research/datasets/mvtec-ad/).
+Download the MvTec-AD from [here](https://www.mvtec.com/company/research/datasets/mvtec-ad/).
+Download the VisA from [here](https://github.com/amazon-science/spot-diff?tab=readme-ov-file).
+Download the MPDD from [here](https://github.com/stepanje/MPDD?tab=readme-ov-file).
+
 
 The dataset folders/files follow its original structure.
 
